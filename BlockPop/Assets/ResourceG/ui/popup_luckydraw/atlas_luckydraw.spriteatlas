@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_luckydraw
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7fbc9217b1a336a4298b982b36a53b61, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - db4bc9901aaef41dd9b9d94a2df3ef37: 21300000
+    - d9eba0e0859087d4b89ea232c03daed1: 21300000
+    - db967891ee3ee224fadbbd962e61443b: 21300000
+    - 2d3f6ea1ed17940c9afa29d91b2b3fe6: 21300000
+    - e4f3440289042654fbbce00eed080202: 21300000
+    - e1a50a62184d59e4b909c1e20c39acad: 21300000
+    - 7f8002a27e642430b8a4d7bf507ec6c4: 21300000
+    - ed7b9ee2824e2b14f884a746abf81f52: 21300000
+    - 8fa355e39d98c43218835788085c9e1a: 21300000
+    - dd9c4db6b791b4922a29adbfd0fcf879: 21300000
+    - beb18f3914d4d684e8e72206b3d2b811: 21300000
+    - c02116b98b5654547831a13679df883c: 21300000
+    - baa1c94eae071436fbfb764643588465: 21300000
+    - a7ccb6dec81fe4195aa5a9dc40b568d4: 21300000
+    - 41b6c0cf4897a084c80a0013dfa143ea: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: db4bc9901aaef41dd9b9d94a2df3ef37, type: 3}
+  - {fileID: 21300000, guid: d9eba0e0859087d4b89ea232c03daed1, type: 3}
+  - {fileID: 21300000, guid: db967891ee3ee224fadbbd962e61443b, type: 3}
+  - {fileID: 21300000, guid: 2d3f6ea1ed17940c9afa29d91b2b3fe6, type: 3}
+  - {fileID: 21300000, guid: e4f3440289042654fbbce00eed080202, type: 3}
+  - {fileID: 21300000, guid: e1a50a62184d59e4b909c1e20c39acad, type: 3}
+  - {fileID: 21300000, guid: 7f8002a27e642430b8a4d7bf507ec6c4, type: 3}
+  - {fileID: 21300000, guid: ed7b9ee2824e2b14f884a746abf81f52, type: 3}
+  - {fileID: 21300000, guid: 8fa355e39d98c43218835788085c9e1a, type: 3}
+  - {fileID: 21300000, guid: dd9c4db6b791b4922a29adbfd0fcf879, type: 3}
+  - {fileID: 21300000, guid: beb18f3914d4d684e8e72206b3d2b811, type: 3}
+  - {fileID: 21300000, guid: c02116b98b5654547831a13679df883c, type: 3}
+  - {fileID: 21300000, guid: baa1c94eae071436fbfb764643588465, type: 3}
+  - {fileID: 21300000, guid: a7ccb6dec81fe4195aa5a9dc40b568d4, type: 3}
+  - {fileID: 21300000, guid: 41b6c0cf4897a084c80a0013dfa143ea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_close
+  - btn_play
+  - icon_gift
+  - btn_continue
+  - pointer
+  - tips
+  - popup_info_bg
+  - icon_red
+  - popup_reward_bg
+  - btn_get
+  - icon_red
+  - slot_bg
+  - title_congratulation
+  - title_get
+  - icon_flower
+  m_RenderDataMap: {}
+  m_Tag: atlas_luckydraw
+  m_IsVariant: 0

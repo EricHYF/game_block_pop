@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362f0ade386984bf7a38d480574bf7d2, type: 3}
+  m_Name: LogoSwitchConfig
+  m_EditorClassIdentifier: 
+  assetPath: Assets/Game/Prefab/view_loading.prefab
+  targetPath: root/new_logo/logo
+  settings:
+  - name: "\u62DB\u8D22\u8FDB\u732B"
+    loadingLogo: {fileID: 21300000, guid: 1d354d0bb7beb4c45b5bab0a37621536, type: 3}
+    splash: {fileID: 21300000, guid: 431853515bae0504385edf5d302a2770, type: 3}
+  - name: "\u55E8\u732B\u732B"
+    loadingLogo: {fileID: 21300000, guid: 8b9497a7cab8742f891ead85938fd7ec, type: 3}
+    splash: {fileID: 21300000, guid: 12dfc78c70d4d4d7b839f94c479d2fad, type: 3}
+  - name: "\u4E00\u8D77\u65FA"
+    loadingLogo: {fileID: 21300000, guid: 2d710ad0ce3f94f73bac436da4508812, type: 3}
+    splash: {fileID: 21300000, guid: 6e4dc029a8c4749608c0e3b47d000c73, type: 3}
+  - name: "\u5947\u5999\u52A8\u7269\u9547"
+    loadingLogo: {fileID: 21300000, guid: 8bfb88b2db86f4f1e997856930b5747b, type: 3}
+    splash: {fileID: 21300000, guid: b91b57eba44f04f7aa79e8cc00e772f2, type: 3}
+  - name: "\u7237\u7237\u7684\u5C0F\u519C\u573A"
+    loadingLogo: {fileID: 21300000, guid: a9b3e8dec60d80f4a82ef51c247b9ecc, type: 3}
+    splash: {fileID: 21300000, guid: 8f5a6561324cf4248888671bdf7aefd9, type: 3}
+  - name: "\u5E78\u798F\u4EBA\u751F"
+    loadingLogo: {fileID: 21300000, guid: 64d128552834a4ce0b8f979b87997908, type: 3}
+    splash: {fileID: 21300000, guid: 40c407ebbe4a4430eb346eed19b1e1e2, type: 3}
+  - name: "\u6D88\u9065\u738B\u56FD "
+    loadingLogo: {fileID: 21300000, guid: 2579141335f91430e9e631000de05c7e, type: 3}
+    splash: {fileID: 21300000, guid: 34e9ae01d81b6442a899a0c43ee46cb2, type: 3}
+  - name: "\u7206\u70B8\u5927\u5E08"
+    loadingLogo: {fileID: 21300000, guid: c14d23319f37a40f3a36485f8e2608af, type: 3}
+    splash: {fileID: 21300000, guid: f111bae164037452d97581eca024e803, type: 3}
+  - name: "\u5F00\u5FC3\u6D88\u661F\u661F"
+    loadingLogo: {fileID: 21300000, guid: d311e6c7ff0e74b3a854cf872d0cdbfa, type: 3}
+    splash: {fileID: 21300000, guid: af8a69056a1f640b7ad4e617d114880b, type: 3}

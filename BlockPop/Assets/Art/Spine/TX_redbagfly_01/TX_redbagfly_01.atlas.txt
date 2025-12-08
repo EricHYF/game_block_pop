@@ -1,0 +1,11 @@
+TX_redbagfly_01.png
+size:88,48
+filter:Linear,Linear
+pma:true
+scale:0.5
+flybag_01
+bounds:57,10,29,36
+icon_redbag_02b
+bounds:2,2,44,53
+offsets:1,0,46,54
+rotate:90

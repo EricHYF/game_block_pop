@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 69af62b061f2bec4da60e4058acd9a87
+  m_SerializeEntries:
+  - m_GUID: a8d59154692e9e349a9e0a3dda3515be
+    m_Address: sounds/bgm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: 6d06096e6a17c2142884fe253e7a9028
+    m_Address: sounds/fx_cool
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: b12061017767b104db35cb802f937e9b
+    m_Address: sounds/fx_excellent
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: a485fcd3bdf6bf449bb8087b2dd3bf93
+    m_Address: sounds/fx_fireworks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: 315dd3181ff1eea4397b2693b27cc380
+    m_Address: sounds/fx_great
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: a964951aaf50c84428b3d527c9b5657e
+    m_Address: sounds/fx_merge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  - m_GUID: 9813fd33fd3bd6f4fa5d33302e77f82a
+    m_Address: sounds/fx_start
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sounds
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ba680b082711bb348b464e18e687e226, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0ce366a6e8d3bc4aa349132b89ad612, type: 2}
+    - {fileID: 11400000, guid: d029e826cb730ce48b9eeda0192429d5, type: 2}

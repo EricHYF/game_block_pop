@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ui
+  m_EditorClassIdentifier: 
+  m_GroupName: ui
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5748c3c6f9ae4eb4095621e05a15afeb
+  m_SerializeEntries:
+  - m_GUID: e7ef3f965cc36482b94ef0cbab43b514
+    m_Address: ui/popup_money/popup_money
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 3e958e7ccf14743d38d50af508823fdf
+    m_Address: ui/popup_money/spriteatlas_popupmoney
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 9c6a78d305a564677833d36278c98a0c
+    m_Address: ui/popup_toast/popup_toast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 631a0723d263141538855326669d8090
+    m_Address: ui/popup_weixin/popup_weixin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: f372faef89f784f53ac36ed4492f4b9a
+    m_Address: ui/popup_weixin/spriteatlas_weixin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 074c0b2a6038a4c4692e707f6969223c
+    m_Address: ui/popup_guide_money/atlas_guide_money
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 5c89e83a05ebaad4f8f43296f64d8190
+    m_Address: ui/popup_guide_money/popup_guide_money
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 489302f69a14b45448f7f8f1ac4781c5
+    m_Address: ui/popup_settings/atlas_setting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 273e485a390f52346a8c722dcc30dc97
+    m_Address: ui/popup_settings/popup_setting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 249d5ddc98f264640bc5907274442920
+    m_Address: ui/popup_first_withdraw_claim/atlas_withdraw_claim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 49b25da258af0438585aa9aa21f4a704
+    m_Address: ui/popup_first_withdraw_claim/popup_first_withdraw_claim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 321070435f26446fea4777bcc8bf0223
+    m_Address: ui/popup_first_withdraw_claim/content
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: e8867e9280f224b6f837f42956cf5399
+    m_Address: ui/popup_guide_money/popup_guide_money
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 0fdf70aeb081a224fb103d060cceb9d8
+    m_Address: ui/popup_luckydraw/atlas_luckydraw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 0abadac8ac2c29048939295be6be1f33
+    m_Address: ui/popup_luckydraw/popup_luckydraw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 19059410085842b43982e4272ed59b55
+    m_Address: ui/popup_luckydraw/popup_luckydraw_result
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  - m_GUID: 51c42aaf8d96e46e0a96b27ba2d50149
+    m_Address: ui/popup_luckydraw/luckydraw_spin_item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ba680b082711bb348b464e18e687e226, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1dac4d0675e62a14784f8629460cbd84, type: 2}
+    - {fileID: 11400000, guid: 90927493438d57d48b141f472e0d7369, type: 2}
