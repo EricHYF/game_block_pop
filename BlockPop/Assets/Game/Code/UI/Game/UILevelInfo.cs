@@ -36,8 +36,8 @@ namespace Game
 
 		public void OpenWithData(int level, int goal, Action callback)
 		{
-			txtTitleLevel.text = $"第{level}关";
-			txtTitleGoal.text = $"目标：{goal}";
+			txtTitleLevel.text = $"Level: {level}";
+			txtTitleGoal.text = $"Goal：{goal}";
 			root.localPosition = new Vector3(INFO_OFFSET, 0, 0);
 			float time = 1.5f;
 
