@@ -91,7 +91,7 @@ public partial class BuildTool
     public static string GenBuildNumber(BuildTarget buildTarget)
     {
         var nowDate = DateTime.Now;
-        string strBuildNumber = $"{nowDate.Year - 2000}{nowDate.Month:00}{nowDate.Day:00}{(nowDate.Hour * 60 + nowDate.Minute) / 15}";
+        string strBuildNumber = $"{nowDate.Year - 2000}{nowDate.Month:00}{nowDate.Day:00}{((nowDate.Hour * 60 + nowDate.Minute) / 15):F00}";
         int buildNumber = int.Parse(strBuildNumber);
         if (buildTarget == BuildTarget.iOS)
         {

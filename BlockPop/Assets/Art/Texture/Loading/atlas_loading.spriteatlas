@@ -38,16 +38,16 @@ SpriteAtlas:
     cachedData: {fileID: 0}
     packedSpriteRenderDataKeys:
     - 173e4a01664e08d4286c285ad2fcdc29: 21300000
-    - 96f6d9c9b6a4e4568872ed785a3d1565: 21300000
+    - 75a596bd994e14729942e18270432e21: -2176477967964546130
     - f71c612ec4acac64fa9a99260e0e0b21: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 173e4a01664e08d4286c285ad2fcdc29, type: 3}
-  - {fileID: 21300000, guid: 96f6d9c9b6a4e4568872ed785a3d1565, type: 3}
+  - {fileID: -2176477967964546130, guid: 75a596bd994e14729942e18270432e21, type: 3}
   - {fileID: 21300000, guid: f71c612ec4acac64fa9a99260e0e0b21, type: 3}
   m_PackedSpriteNamesToIndex:
   - progress_bar
-  - loading_bg_star
+  - pop_match_bg_0
   - progress_bg
   m_RenderDataMap: {}
   m_Tag: atlas_loading
